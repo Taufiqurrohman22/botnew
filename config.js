@@ -1,12 +1,12 @@
 //=============『 Utama 』================== //
 global.owner = ['6283822205585'] 
-global.mods = [] 
-global.prems = [] 
+global.mods = ['6283822205585'] 
+global.prems = ['6283822205585'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Opik'
 global.numberowner = '6283822205585'
-global.instagram = 'https://instagram.com/helga_store20'
+global.instagram = 'https://instagram.com/off_ikxyz.22?igshid=YmMyMTA2M2Y='
 global.github = 'https://github.com/Taufiqurrohman22'
 global.dana = '083822205585'
 global.pulsa = '083822205585'
@@ -14,8 +14,8 @@ global.gopay = '083822205585'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'NesliteMax_Md'
-global.gc = 'https://chat.whatsapp.com/BxrDMvfLeKTHtvAWKHWZbZ'
-global.web = 'https://www.helgastoree.xyz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.gc = 'https://chat.whatsapp.com/ImCSRa6RmkVF4t1ennCyCY'
+global.web = 'https://telegra.ph/Neslite-Max-Md-06-17' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -25,8 +25,8 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'Neslite Max'
 global.watermark = wm
-global.wm2 = '                     「 Neslite Max あ⁩ 」'
-global.wm3 = '⫹⫺ Neslite Max'
+global.wm2 = '                     ≾ Neslite Max ␆⁩ ≿'
+global.wm3 = '⌨ Neslite Max'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/8921f83300b1238e90510.jpg'
