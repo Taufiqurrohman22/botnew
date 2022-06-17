@@ -25,8 +25,8 @@ Runtime: ${uptime}`
     status: 1,
     surface : 1,
     message: `2022 © ${namebot}, 
-    orderTitle: `Hyzer`,
-    thumbnail: 'https://telegra.ph/file/5ecbec3e82e247671a18e.jpg', 
+    orderTitle: `Opik`,
+    thumbnail: 'https://telegra.ph/file/3ca72236e61359bcbae7d.jpg', 
     sellerJid: '0@s.whatsapp.net' 
     }
     }
