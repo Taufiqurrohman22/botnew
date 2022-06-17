@@ -12,7 +12,7 @@
   <a href="https://github.com/Taufiqurrohman22"><img title="GitHub" src="https://img.shields.io/badge/Github-Hyzerr.svg?style=for-the-badge&logo=github" /></a>
   <a href="https://instagram.com/off_ikxyz.22?igshid=YmMyMTA2M2Y="><img title="Instagram " src="https://img.shields.io/badge/Instagram-Hyzerr.svg?style=for-the-badge&logo=instagram" /></a>
   <a href="https://youtube.com/channel/UCEWzQWxEdrxawnmQtZ3mEZQ"><img title="Youtube" src="https://img.shields.io/badge/Youtube-Hyzerr.svg?style=for-the-badge&logo=youtube" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100071203946028"><img title="Rest Api" src="https://img.shields.io/badge/Rest Api-Hyzerr.svg?style=for-the-badge&logo=Facebook" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100071203946028"><img title="Facebook" src="https://img.shields.io/badge/Rest Api-Hyzerr.svg?style=for-the-badge&logo=Facebook" /></a>
   <h4 align="center">
   <a
   <a href="https://wa.me/6283822205585">Chat Saya Jika Ingin Menanyakan Sesuatu </a>
