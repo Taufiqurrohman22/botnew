@@ -11,7 +11,7 @@ const ftroli = {
     surface : 1,
     message: 'Get Bot', 
     orderTitle: `Opik`,
-    thumbnail: 'https://telegra.ph/file/5ecbec3e82e247671a18e.jpg', 
+    thumbnail: 'https://telegra.ph/file/45c10e061006c580264e2.jpg', 
     sellerJid: '0@s.whatsapp.net' 
     }
     }
